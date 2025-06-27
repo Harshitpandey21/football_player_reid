@@ -43,7 +43,7 @@ pip install opencv-python torch torchvision numpy pillow scikit-learn ultralytic
 ```
 
 ### 4. Download YOLOv8 model weights
-Download the `best.pt` file and place it inside the project root directory. This should be your fine-tuned YOLOv8 model for player, referee, goalkeeper, and ball detection.
+Download the `best.pt` file from link "https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view" and place it inside the project root directory. This should be your fine-tuned YOLOv8 model for player, referee, goalkeeper, and ball detection.
 
 ---
 
